@@ -1,0 +1,9 @@
+phase1:
+-concurrency: 58
+hold-for: 3m
+ramp up: 2m
+
+  scenario: Choose Flight
+Scenarios:
+    Choose Flight:
+      requests:
