@@ -7,3 +7,4 @@ ramp up: 2m
 Scenarios:
     Choose Flight:
       requests:
+      get:
